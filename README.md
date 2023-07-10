@@ -29,4 +29,7 @@ The same goes for the second argument but with domains.
 ## Upcoming Features
 * Add more email structures
 * Add bash script to call the program
+  * Add Help flag
 * Better Input Validation
+* Ability to insert custom email structure
+* Add a quick search algorithm across a list of names
